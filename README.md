@@ -18,6 +18,15 @@ Hello World!
 $
 ```
 
+## OpenBSD (cmake)
+```
+$ cmake .
+$ make
+$ ./helloworld
+Hello World!
+$
+```
+
 ## Windows (OpenWATCOM)
 ```
 > wcl386.exe -q -c -wx -xs  -ot -ox -iC:\watcom\h -iC:\watcom\h\nt -fo=main.obj main.cpp
